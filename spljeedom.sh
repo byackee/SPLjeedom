@@ -4,7 +4,7 @@ duration=$2
 hw=$3
 url=votre url ici
 apikey=votre clef api jeedom
-devideid=votre devide id 
+deviceid=votre devide id 
 paramid=param2842
 
 while true; do 
