@@ -31,7 +31,7 @@ apikey=votre clef api jeedom
 devideid=votre devide id 
 paramid= param2842
 
-Ces infos sont disponibles lorsque vous ouvrez votyre équipement http event
+Ces infos sont disponibles lorsque vous ouvrez votre équipement http event
 
 8) tester en tapant la commande /etc/init.d/spljeedom start
 ```
