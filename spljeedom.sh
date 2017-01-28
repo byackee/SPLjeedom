@@ -5,7 +5,7 @@ hw=$3
 url=votre url ici
 apikey=votre clef api jeedom
 devideid=votre devide id 
-paramid= param2842
+paramid=param2842
 
 while true; do 
     arecord -q -D $hw -f cd -d $duration -t raw $folder/noise.wav
