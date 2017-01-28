@@ -1,11 +1,5 @@
 ## Description
-Ce plugin permet de dialoguer avec un bot
-
-Le bot utiliser est rivescript. Les langues actuellement supportés sont:
-  - Francais
-  - Aanglais
-
-Pour le moment il est impossible d'ajouter des nouvelles co
+Ce script permet de mesurer le volume sonore dans la piece et d'envoyer cette info a jeedom
 
 ## Installation
 ```
