@@ -25,7 +25,7 @@ Pour le moment il est impossible d'ajouter des nouvelles co
 	
 6) modifier le fichier spljeedom et remplacer la valeur plughw:0,0 par le micro que vous utiliser. pour savoir quel est sont les chiffres a renseigner pour remplacer le 2 et le 0 il faut taper la commande arecord -l et renseigner le 2 par la valeur de la card que vous utilisez et le 0 par la valeur du device que vous utilisez
 
-7) modidier le variables suivantes dans le fichier spljeedom.sh
+7) modifier le variables suivantes dans le fichier spljeedom.sh
 url=votre url ici
 apikey=votre clef api jeedom
 devideid=votre devide id 
