@@ -1,7 +1,7 @@
 #!/bin/sh
 folder=/tmp/
 duration=30
-hw=$3
+hw=plughw:0,0
 url=votre url ici
 apikey=votre clef api jeedom
 deviceid=votre devide id 
