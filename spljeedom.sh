@@ -1,6 +1,6 @@
 #!/bin/sh
-folder=$1
-duration=$2
+folder=/tmp/
+duration=30
 hw=$3
 url=votre url ici
 apikey=votre clef api jeedom
