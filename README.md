@@ -10,7 +10,7 @@ Ce script permet de mesurer le volume sonore dans la piece et d'envoyer cette in
 3) faire un chmod +x sur les 2 fichier
 
 4) installer les paquets:
-	sudo apt-get install sox
+	sudo apt-get install sox bc
 	sudo apt-get install lame libmp3lame0
 	
 5) lancer les commandes: 
